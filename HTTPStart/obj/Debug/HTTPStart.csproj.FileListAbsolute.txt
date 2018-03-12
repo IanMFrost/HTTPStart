@@ -1,0 +1,7 @@
+C:\Users\Bruger\Documents\GitHub\HTTPStart\HTTPStart\obj\Debug\HTTPStart.csprojResolveAssemblyReference.cache
+C:\Users\Bruger\Documents\GitHub\HTTPStart\HTTPStart\obj\Debug\HTTPStart.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\GitHub\HTTPStart\HTTPStart\bin\Debug\HTTPStart.exe.config
+C:\Users\Bruger\Documents\GitHub\HTTPStart\HTTPStart\bin\Debug\HTTPStart.exe
+C:\Users\Bruger\Documents\GitHub\HTTPStart\HTTPStart\bin\Debug\HTTPStart.pdb
+C:\Users\Bruger\Documents\GitHub\HTTPStart\HTTPStart\obj\Debug\HTTPStart.exe
+C:\Users\Bruger\Documents\GitHub\HTTPStart\HTTPStart\obj\Debug\HTTPStart.pdb
